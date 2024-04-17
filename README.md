@@ -19,3 +19,4 @@ Credit card fraud continues to be a significant threat in the financial sector, 
 #### Particle Swarm Optimization (PSO)
 The initial approach in this project uses PSO to optimize the weights and biases of a neural network designed to detect fraudulent transactions. PSO is an evolutionary computation technique inspired by the social behavior of birds. In our context, each particle in the swarm represents a potential solution to the problem (i.e., a set of neural network parameters). The algorithm iterates over multiple rounds to find the optimal set of parameters that minimize the classification error. This method proved effective in handling the complex patterns associated with fraud detection, providing a strong starting point for further exploration with other algorithms.
 
+[`ReadHere`](ParticleSwarmOptimization/pso.MD)
